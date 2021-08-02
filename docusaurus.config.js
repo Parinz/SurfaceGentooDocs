@@ -5,13 +5,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Surface Gentoo',
   tagline: 'Gentoo on MS Surface',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://parinz.github.io/',
+  baseUrl: '/linux-surface-overlay/',
+  trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/gentoo.svg',
   organizationName: 'Parinz', // Usually your GitHub org/user name.
-  projectName: 'Surface-Gentoo', // Usually your repo name.
+  projectName: 'linux-surface-overlay', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Surface Gentoo',
