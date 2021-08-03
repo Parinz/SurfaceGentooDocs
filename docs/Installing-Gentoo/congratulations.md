@@ -4,18 +4,14 @@ sidebar_position: 6
 
 # Congratulations!
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+You have just **installed Gentoo**, a task many consider **impossible**!
 
-Docusaurus has **much more to offer**!
-
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
-
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+- Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/Parinz/linux-surface-overlay)
+- Have any issues? [Report it, and I'll help you through it!](https://github.com/Parinz/linux-surface-overlay)
 
 ## What's next?
+Follow the [final chapter of the handbook.](https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Finalizing).
 
-- Read the [official documentation](https://docusaurus.io/).
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+**Also add your user to the `plugdev` group so you can control Network Manager!**
+
+### [Please star the repo, it helps me continue my work!](https://github.com/Parinz/linux-surface-overlay)
